@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsFeed test after load 1`] = `
+"<div style={{...}}>
+  <Marquee scrollamount=\\"5\\" element={{...}}>
+    <ul className=\\"newsfeed-list\\" style={{...}} />
+  </Marquee>
+  <hr style={{...}} />
+</div>"
+`;
+
+exports[`NewsFeed test initially 1`] = `
+"<div style={{...}}>
+  <Marquee scrollamount=\\"5\\" element={{...}}>
+    <ul className=\\"newsfeed-list\\" style={{...}} />
+  </Marquee>
+  <hr style={{...}} />
+</div>"
+`;

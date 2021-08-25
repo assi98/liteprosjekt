@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchOutput test after load 1`] = `
+"<div className=\\"\\">
+  <Row>
+    <LayoutPaper header=\\"sok\\" to=\\"/artikler/undefined\\" alt=\\"enalt\\" bilde=\\"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225627/Pomeranian-On-White-01.jpg\\" />
+  </Row>
+</div>"
+`;
+
+exports[`SearchOutput test initially 1`] = `
+"<div className=\\"\\">
+  <Row />
+</div>"
+`;
